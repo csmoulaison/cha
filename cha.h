@@ -73,7 +73,7 @@ ChaResult cha_read_csv(const char* filename, char* out, ChaConfig config) {
 		}
 		
 		if(field_len >= config.field_buffer_len - 1) {
-			printf("Cha Error: Field length %i in %s exceed the max at record %i.\n", field_len, filename, res.num_records + 1);
+			printf("Cha Error: Field length %i in %s exceeds the max at record %i.\n", field_len, filename, res.num_records + 1);
 			return res;
 		}
 
