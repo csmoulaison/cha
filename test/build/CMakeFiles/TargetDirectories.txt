@@ -1,3 +1,0 @@
-/home/csmoulaison/repos/cha/test/build/CMakeFiles/cha_test.dir
-/home/csmoulaison/repos/cha/test/build/CMakeFiles/edit_cache.dir
-/home/csmoulaison/repos/cha/test/build/CMakeFiles/rebuild_cache.dir

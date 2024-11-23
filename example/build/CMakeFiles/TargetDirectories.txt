@@ -1,0 +1,3 @@
+/home/csmoulaison/repos/cha/example/build/CMakeFiles/cha_example.dir
+/home/csmoulaison/repos/cha/example/build/CMakeFiles/edit_cache.dir
+/home/csmoulaison/repos/cha/example/build/CMakeFiles/rebuild_cache.dir
